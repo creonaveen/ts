@@ -1,0 +1,24 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p./",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creonaveen/ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/creonaveen/ts/issues"
+  },
+  "homepage": "https://github.com/creonaveen/ts#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
